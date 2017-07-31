@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PublishedGMT.data.unityweb",
+"asmCodeUrl": "PublishedGMT.asm.code.unityweb",
+"asmMemoryUrl": "PublishedGMT.asm.memory.unityweb",
+"asmFrameworkUrl": "PublishedGMT.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
